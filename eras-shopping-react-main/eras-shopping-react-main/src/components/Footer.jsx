@@ -9,11 +9,11 @@ function Footer() {
           <div className="footer-column">
             <h4>INFORMATION</h4>
             <ul>
-              <li><a href="#">The brand</a></li>
-              <li><a href="#">Local stores</a></li>
-              <li><a href="#">Customer service</a></li>
-              <li><a href="#">Privacy & cookies</a></li>
-              <li><a href="#">Site map</a></li>
+              <li><a href="/">The brand</a></li>
+              <li><a href="/">Local stores</a></li>
+              <li><a href="/">Customer service</a></li>
+              <li><a href="/">Privacy & cookies</a></li>
+              <li><a href="/">Site map</a></li>
             </ul>
           </div>
 
@@ -21,11 +21,11 @@ function Footer() {
           <div className="footer-column">
             <h4>MY PROFILE</h4>
             <ul>
-              <li><a href="#">Getting Started</a></li>
-              <li><a href="#">FAQs</a></li>
-              <li><a href="#">Buying Guide</a></li>
-              <li><a href="#">Order Returns</a></li>
-              <li><a href="#">Affiliate Program</a></li>
+              <li><a href="/">Getting Started</a></li>
+              <li><a href="/">FAQs</a></li>
+              <li><a href="/">Buying Guide</a></li>
+              <li><a href="/">Order Returns</a></li>
+              <li><a href="/">Affiliate Program</a></li>
             </ul>
           </div>
 
@@ -33,11 +33,11 @@ function Footer() {
           <div className="footer-column">
             <h4>YOUR ACCOUNT</h4>
             <ul>
-              <li><a href="#">Shipping & Returns</a></li>
-              <li><a href="#">Secure Shopping</a></li>
-              <li><a href="#">Testimonials</a></li>
-              <li><a href="#">Award Winning</a></li>
-              <li><a href="#">Ethical Trading</a></li>
+              <li><a href="/">Shipping & Returns</a></li>
+              <li><a href="/">Secure Shopping</a></li>
+              <li><a href="/">Testimonials</a></li>
+              <li><a href="/">Award Winning</a></li>
+              <li><a href="/">Ethical Trading</a></li>
             </ul>
           </div>
 
@@ -45,11 +45,11 @@ function Footer() {
           <div className="footer-column">
             <h4>LOOKBOOK</h4>
             <ul>
-              <li><a href="#">Getting Started</a></li>
-              <li><a href="#">FAQs</a></li>
-              <li><a href="#">Buying Guide</a></li>
-              <li><a href="#">Order Returns</a></li>
-              <li><a href="#">Affiliate Program</a></li>
+              <li><a href="/">Getting Started</a></li>
+              <li><a href="/">FAQs</a></li>
+              <li><a href="/">Buying Guide</a></li>
+              <li><a href="/">Order Returns</a></li>
+              <li><a href="/">Affiliate Program</a></li>
             </ul>
           </div>
 
