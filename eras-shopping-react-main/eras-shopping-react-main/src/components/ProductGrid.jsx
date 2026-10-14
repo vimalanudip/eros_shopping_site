@@ -39,7 +39,7 @@ function ProductGrid() {
             FOR WOMEN
           </h3>
 
-          <a href="#" className="btn-dark">
+          <a href="/" className="btn-dark">
             SHOP NOW
           </a>
         </div>
@@ -61,7 +61,7 @@ function ProductGrid() {
               FOR MEN
             </h3>
 
-            <a href="#" className="btn-dark">
+            <a href="/" className="btn-dark">
               SHOP NOW
             </a>
           </div>
