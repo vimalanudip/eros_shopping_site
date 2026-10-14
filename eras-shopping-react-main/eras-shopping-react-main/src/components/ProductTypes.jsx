@@ -20,7 +20,7 @@ function ProductTypes() {
         {/* Men */}
         <div className="type-card">
           <img src="/assets/Shape (5).png" alt="men" />
-          <a href="#" className="product btn-dark">
+          <a href="/" className="product btn-dark">
             SHOP MEN
           </a>
         </div>
@@ -28,7 +28,7 @@ function ProductTypes() {
         {/* Women */}
         <div className="type-card">
           <img src="/assets/Shape (7).png" alt="women" />
-          <a href="#" className="product btn-dark">
+          <a href="/" className="product btn-dark">
             SHOP WOMEN
           </a>
         </div>
@@ -39,7 +39,7 @@ function ProductTypes() {
             src="/assets/Rechteck 1 copy 3.png"
             alt="kids"
           />
-          <a href="#" className="product btn-dark">
+          <a href="/" className="product btn-dark">
             SHOP KIDS
           </a>
         </div>
