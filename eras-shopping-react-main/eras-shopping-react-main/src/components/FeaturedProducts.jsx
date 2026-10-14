@@ -7,12 +7,12 @@ function FeaturedProducts() {
       {/* Nav */}
       <div className="featured-nav">
         <ul className="nav-links">
-          <li><a href="#">All</a></li>
-          <li><a href="#">spring-summer</a></li>
-          <li><a href="#">sweatshirts</a></li>
-          <li><a href="#">sneakers</a></li>
-          <li><a href="#">gadgets</a></li>
-          <li><a href="#">outdoors</a></li>
+          <li><a href="/">All</a></li>
+          <li><a href="/">spring-summer</a></li>
+          <li><a href="/">sweatshirts</a></li>
+          <li><a href="/">sneakers</a></li>
+          <li><a href="/">gadgets</a></li>
+          <li><a href="/">outdoors</a></li>
         </ul>
       </div>
 
