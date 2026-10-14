@@ -11,7 +11,7 @@ function PromoBanner() {
 
         <p>SIGN UP NOW AND GET 50% OFF</p>
 
-        <a href="#" className="btn-light">
+        <a href="/" className="btn-light">
           SEE FULL COLLECTION
         </a>
       </div>
